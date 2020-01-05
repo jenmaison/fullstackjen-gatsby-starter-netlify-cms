@@ -1,9 +1,8 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: product-page
+title: Digital Design
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Digital Design Defined
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -39,11 +38,20 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Graphic Designers would learn how to use Illustrator, Photoshop and
+    Indesign, with a focus on pre-print production, typography, the design of
+    logos, brochures, posters and images used in web design. They may also be
+    responsible for designing collateral such as brochures, product design,
+    advertising, and merchandise.
+
+
+    A Digital Designer will have the ability to also undertake these tasks and
+    more. This is going to seem obvious now, but Digital Designers are also
+    more… digital. They work on website design, mobile apps, and other online
+    content for a range of industries. Some digital designers will also pick up
+    skills in 3D modelling or 2D animation to further their opportunities and
+    capabilities.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,3 +107,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
