@@ -2,7 +2,9 @@
 templateKey: index-page
 title: Jennifer Maison
 image: /img/home-jumbotron.jpg
-heading: This is a Headline
+heading: >-
+  A multidisciplinary designer, my portfolio includes a diverse collection of
+  print, digital and website design work.
 subheading: Full Stack Digital Designer & Website Developer
 mainpitch:
   title: What is Full Stack?
@@ -11,10 +13,10 @@ mainpitch:
     and research, to design, to coding, full stack designers are
     multidimensional with a wide range of skills.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  As a life-long creative, I have always enjoyed the constant evolution of the
+  design world. To be a designer you have to have a willingness to never stop
+  learning. From trends to software, this industry is ever changing, and it is
+  my pleasure to evolve with it.
 intro:
   blurbs:
     - image: /img/coffee.png
