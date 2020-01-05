@@ -1,13 +1,6 @@
 ---
 templateKey: about-page
 title: About
-image: /img/jumbotron.jpg
-heading: Digital Design Defined
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 ---
 ![Jennifer Maison](/img/jenny625.jpg "Jennifer Maison - Full Stack Digital Designer and Website Developer")
 
