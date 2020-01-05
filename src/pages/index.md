@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: An Experiment in JAM Stack
-image: /img/home-jumbotron.jpg
+image: /img/fsj_logo.png
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
