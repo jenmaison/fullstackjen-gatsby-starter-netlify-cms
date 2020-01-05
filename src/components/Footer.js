@@ -36,8 +36,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
+                      <Link className="navbar-item" to="/portfolio">
+                        portfolio
                       </Link>
                     </li>
                     <li>
@@ -72,7 +72,7 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com/FullStackJen1">
+                <a title="twitter" href="https://twitter.com/FullStackJen1" target="new">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -80,24 +80,24 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://www.instagram.com/fullstackjen1/">
+                <a title="instagram" href="https://www.instagram.com/fullstackjen1/" target="new">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="linkedin" href="https://www.linkedin.com/in/jennifer-maison-703a592/">
+                <a title="linkedin" href="https://www.linkedin.com/in/jennifer-maison-703a592/" target="new">
                   <img
                     src={linkedin}
                     alt="Linkedin"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="github" href="https://github.com/jenmaison">
+                <a title="github" href="https://github.com/jenmaison" target="new">
                   <img
                     src={github}
-                    alt="Githubin"
+                    alt="Github"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
