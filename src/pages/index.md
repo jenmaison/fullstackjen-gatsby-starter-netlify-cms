@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: An Experiment in JAM Stack
-image: /img/fsj_logo.png
+title: Jennifer Maison
+image: /img/products-full-width.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Full Stack Digital Designer & Website Developer
 mainpitch:
-  title: Why Kaldi
+  title: What is Full Stack?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
