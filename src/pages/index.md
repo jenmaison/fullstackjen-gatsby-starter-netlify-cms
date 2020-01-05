@@ -1,16 +1,15 @@
 ---
 templateKey: index-page
 title: Jennifer Maison
-image: /img/products-full-width.jpg
-heading: Great coffee with a conscience
+image: /img/home-jumbotron.jpg
+heading: This is a Headline
 subheading: Full Stack Digital Designer & Website Developer
 mainpitch:
   title: What is Full Stack?
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  description: >-
+    A full stack designer is involved in every stage of design. From discovery
+    and research, to design, to coding, full stack designers are
+    multidimensional with a wide range of skills.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
