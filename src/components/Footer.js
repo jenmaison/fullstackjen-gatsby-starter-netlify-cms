@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
+        <div className="content has-text-right">
           <img
             src={logo}
             alt="Full Stack Jen"
