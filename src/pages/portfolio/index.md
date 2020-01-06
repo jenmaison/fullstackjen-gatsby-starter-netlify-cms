@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: portfolio-page
 title: Digital Design
 image: /img/jumbotron.jpg
 heading: Digital Design Defined
