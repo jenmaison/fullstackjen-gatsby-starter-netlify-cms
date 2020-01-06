@@ -3,7 +3,7 @@ templateKey: index-page
 title: Jennifer Maison
 image: /img/flavor_wheel.jpg
 heading: >-
-  A multidisciplinary designer, my portfolio includes a diverse collection of   
+  A multidisciplinary designer, my portfolio includes a diverse collection of
   print, digital and website design work.
 subheading: Full Stack Digital Designer & Website Developer
 mainpitch:
