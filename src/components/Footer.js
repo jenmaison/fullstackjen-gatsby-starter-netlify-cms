@@ -12,10 +12,10 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-center">
+        <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Full Stack Jen"
+            alt="Full Stack Jen Logo"
             style={{ width: '14em', height: '10em' }}
           />
         </div>
