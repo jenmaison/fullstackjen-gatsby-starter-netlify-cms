@@ -39,19 +39,7 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >-
-    Graphic Designers would learn how to use Illustrator, Photoshop and
-    Indesign, with a focus on pre-print production, typography, the design of
-    logos, brochures, posters and images used in web design. They may also be
-    responsible for designing collateral such as brochures, product design,
-    advertising, and merchandise.
-
-
-    A Digital Designer will have the ability to also undertake these tasks and
-    more. This is going to seem obvious now, but Digital Designers are also
-    more… digital. They work on website design, mobile apps, and other online
-    content for a range of industries. Some digital designers will also pick up
-    skills in 3D modelling or 2D animation to further their opportunities and
-    capabilities.
+    Graphic Designers 
 main:
   heading: Great coffee with no compromises
   description: >
